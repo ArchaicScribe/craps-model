@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="craps-model:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/craps_model_jar</output-path>
+    <root id="archive" name="craps-model.jar">
+      <element id="module-output" name="craps-model" />
+    </root>
+  </artifact>
+</component>
